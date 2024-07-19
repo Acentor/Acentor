@@ -9,11 +9,9 @@
 
 <h3 align="left">Connect with me: //  Conectate conmigo:</h3>
 
-<p align="center"><a href="angel_x1_00@msn.com" target="_blank" rel="noreferrer"><img src="https://www.troopsf.com/wp-content/uploads/email-icon_60930.png" alt="bootstrap" width="40" height="40"/></a></p>
+<p align="center"><a href="mailto:angel_x1_00@msn.com" target="_blank" rel="noreferrer"><img src="https://www.troopsf.com/wp-content/uploads/email-icon_60930.png" alt="bootstrap" width="40" height="40"/></a></p>
 <p align="center"><a href="https://linkedin.com/in/www.linkedin.com/in/juan-antonio-artigas-03a501243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/juan-antonio-artigas-03a501243" height="30" width="40" /></a>
 </p>
-<a href="mailto:admin@w3schools.io" rel="noreferrer"><img src="https://www.troopsf.com/wp-content/uploads/email-icon_60930.png" alt="bootstrap" width="40" height="40"/></a>
-[Contact Us](mailto:admin@w3schools.io)
 
 <h3 align="left">CV:</h3>
 
