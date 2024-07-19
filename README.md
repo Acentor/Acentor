@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<p align="center"><a href="angel_x1_00@msn.com" target="_blank" rel="noreferrer">EMAIL</a></p>
+<p align="center"><a href="angel_x1_00@msn.com" target="_blank" rel="noreferrer"><b>EMAIL</b></a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
