@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i23.servimg.com/u/f23/11/92/85/94/86247511.jpg" alt="bootstrap" /></p>
+
 <h1 align="center">Hi 👋, I'm Juan Antonio "Acentor"</h1>
 <h1 align="center">Hola 👋, Soy Juan Antonio "Acentor"</h1>
 <h3 align="center">A passionate developer from Argentina, about programming and design with a creative mind. My goal is to merge code logic with visual aesthetics to create impactful digital experiences.</h3>
