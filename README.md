@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-  [Email](Angel_x1_00@msn.com "Email")
+  *[`Email`](angel_x1_00@msn.com)*
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
