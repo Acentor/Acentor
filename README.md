@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Antonio "Acentor"</h1>
-<h3 align="center">A passionate developer from Argentina</h3>
+<h3 align="center">A passionate developer from Argentina, about programming and design with a creative mind. My goal is to merge code logic with visual aesthetics to create impactful digital experiences.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=acentor&label=Profile%20views&color=0e75b6&style=flat" alt="acentor" /> </p>
 
@@ -9,8 +9,7 @@
 
 <h3 align="left">Badges:</h3>
 
-<p align="center"><a href="https://www.credly.com/users/juan-artigas.acentor" target="_blank" rel="noreferrer"><img src="https://info.credly.com/hubfs/Credly_images_2022/Logo.svg" alt="credly" width="40" height="40"/> </a></p>
-<p align="center"><a href="https://learn.microsoft.com/es-es/users/juanantonioartigas-4918/" target="_blank" rel="noreferrer"><img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1501613147/ypg7mliwmzomf9fdrkvz.png" alt="MS" width="40" height="40"/> </a></p>
+<p align="center"><a href="https://www.credly.com/users/juan-artigas.acentor" target="_blank" rel="noreferrer"><img src="https://info.credly.com/hubfs/Credly_images_2022/Logo.svg" alt="credly" width="40" height="40"/> </a></p><p align="center"><a href="https://learn.microsoft.com/es-es/users/juanantonioartigas-4918/" target="_blank" rel="noreferrer"><img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1501613147/ypg7mliwmzomf9fdrkvz.png" alt="MS" width="40" height="40"/> </a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
