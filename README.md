@@ -7,7 +7,8 @@
 
 <h3 align="left">Connect with me: //  Conectate conmigo:</h3>
 
-<p align="center"><a href="angel_x1_00@msn.com" target="_blank" rel="noreferrer"><b>EMAIL</b></a></p>
+<p align="center"><a href="angel_x1_00@msn.com" target="_blank" rel="noreferrer"><img src="https://www.troopsf.com/wp-content/uploads/email-icon_60930.png" alt="bootstrap" width="40" height="40"/><b>EMAIL</b></a></p>
+
 
 <h3 align="left">CV:</h3>
 
