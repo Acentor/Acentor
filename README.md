@@ -7,6 +7,10 @@
 
 <p align="center"><a href="angel_x1_00@msn.com" target="_blank" rel="noreferrer"><b>EMAIL</b></a></p>
 
+<h3 align="left">CV:</h3>
+
+<p align="center"><a href="https://github.com/Acentor/Acentor/blob/main/CurriculumVitae.pdf" target="_blank" rel="noreferrer"><b>CurriculumVitae</b></a></p>
+
 <h3 align="left">Badges:</h3>
 
 <p align="center"><a href="https://www.credly.com/users/juan-artigas.acentor" target="_blank" rel="noreferrer"><img src="https://info.credly.com/hubfs/Credly_images_2022/Logo.svg" alt="credly" width="40" height="40"/> </a><a href="https://learn.microsoft.com/es-es/users/juanantonioartigas-4918/" target="_blank" rel="noreferrer"><img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/v1501613147/ypg7mliwmzomf9fdrkvz.png" alt="MS" width="40" height="40"/> </a></p>
