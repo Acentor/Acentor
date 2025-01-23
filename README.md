@@ -36,6 +36,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=acentor&show_icons=true&locale=en" alt="acentor" /></p>
 
-
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acentor&" alt="acentor" /></p>
